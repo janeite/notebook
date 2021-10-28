@@ -1,8 +1,10 @@
 ### Title
 Cortical High-Density Counterstream Architectures
+### Cite
+N. T. Markov et al.，Science 342, 1238406 (2013). DOI: 10.1126/science.1238406
 ### Last Author
 Henry Kennedy
-### 类型
+### Type
 review summary
 ### Outline
 Density and Small-World Architectures
